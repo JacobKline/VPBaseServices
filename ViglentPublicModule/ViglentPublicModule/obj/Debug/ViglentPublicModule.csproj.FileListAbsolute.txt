@@ -1,0 +1,5 @@
+c:\users\jacob\documents\visual studio 2012\Projects\ViglentPublicModule\ViglentPublicModule\bin\ViglentPublicModule.dll
+c:\users\jacob\documents\visual studio 2012\Projects\ViglentPublicModule\ViglentPublicModule\bin\ViglentPublicModule.pdb
+c:\users\jacob\documents\visual studio 2012\Projects\ViglentPublicModule\ViglentPublicModule\obj\Debug\ViglentPublicModule.dll
+c:\users\jacob\documents\visual studio 2012\Projects\ViglentPublicModule\ViglentPublicModule\obj\Debug\ViglentPublicModule.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\ViglentPublicModule\ViglentPublicModule\obj\Debug\ViglentPublicModule.csprojResolveAssemblyReference.cache

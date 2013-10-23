@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="VPSite" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Jacob\\documents\\visual\ studio\ 2012\\Projects\\ViglentPublicModule\\ViglentPublicModule\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Jacob\\documents\\visual\ studio\ 2012\\Projects\\ViglentPublicModule\\ViglentPublicModule\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
